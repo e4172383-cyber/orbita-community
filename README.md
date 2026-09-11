@@ -52,5 +52,7 @@
 
 ## Android и iPhone
 
-[Android APK](https://github.com/e4172383-cyber/orbita-community/releases/download/v2.0.4/Orbita-Android-2.0.4.apk) · [Установка на iPhone](https://chat.orbita.195-201-169-74.sslip.io/mobile.html). Android 8+. Для iPhone — веб-приложение Safari на главном экране. Фоновые вызовы и отправка экрана телефона пока не поддерживаются.
+[Android APK](https://github.com/e4172383-cyber/orbita-community/releases/download/v2.0.4/Orbita-Android-2.0.5.apk) · [Установка на iPhone](https://chat.orbita.195-201-169-74.sslip.io/mobile.html). Android 8+. Для iPhone — веб-приложение Safari на главном экране. Фоновые вызовы и отправка экрана телефона пока не поддерживаются.
 
+
+Мобильное обновление 2.0.5: скачивание APK через браузер, уведомления и ручная проверка обновлений, звонки в ЛС и просмотр профиля. APK доступен среди файлов релиза 2.0.4; версия настольного приложения остаётся 2.0.4.
